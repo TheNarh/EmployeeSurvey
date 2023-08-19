@@ -11,8 +11,9 @@ body {
 }
 
 .form {
-  width: 700px;
-  height: 700px;
+  width: 70vw;
+  max-width: 500px;
+  min-width: 300px
   border: solid 2px rgb(201, 72, 72);
   background: linear-gradient(
     to left,
